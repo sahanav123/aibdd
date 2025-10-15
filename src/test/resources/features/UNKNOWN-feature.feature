@@ -1,1 +1,0 @@
-Feature: Generated Feature
